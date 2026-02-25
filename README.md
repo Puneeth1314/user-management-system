@@ -90,6 +90,20 @@ npm run dev
 Frontend runs on:
 http://localhost:5173
 
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### ➕ Add User
+![Add User](screenshots/add-user.png)
+
+### 📋 User List
+![User List](screenshots/user-list.png)
+
+### ✏️ Update User
+![Update User](screenshots/update-user.png)
+
 👨‍💻 Author
 Puneeth Reddy A P
 Aspiring Java Full Stack Developer
