@@ -102,7 +102,7 @@ http://localhost:5173
 ![User List](user-list.png)
 
 ### ✏️ Update User
-![Update User](update-user.png)
+![Update User](update-User.png)
 
 👨‍💻 Author
 Puneeth Reddy A P
