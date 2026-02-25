@@ -93,16 +93,16 @@ http://localhost:5173
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### ➕ Add User
-![Add User](screenshots/add-user.png)
+![Add User](add-user.png)
 
 ### 📋 User List
-![User List](screenshots/user-list.png)
+![User List](user-list.png)
 
 ### ✏️ Update User
-![Update User](screenshots/update-user.png)
+![Update User](update-user.png)
 
 👨‍💻 Author
 Puneeth Reddy A P
