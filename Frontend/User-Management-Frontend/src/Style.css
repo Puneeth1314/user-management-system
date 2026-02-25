@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: #f4f6f9;
+}
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 50px auto;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+.btn {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 14px;
+}
+.btn-add { background-color: #28a745; color: white; }
+.btn-edit { background-color: #007bff; color: white;  margin-right: 10px;}
+.btn-delete { background-color: #dc3545; color: white; }
+
+.userlist-btn >button{
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+.form-group {
+  margin-bottom: 18px;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+.form-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.title-btn{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.userform-h2{
+    margin-bottom: 10px;
+}
+
